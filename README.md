@@ -4,7 +4,8 @@ A modern and responsive Nike UI/UX concept designed in Figma. This design focuse
 
 ## 🖼️ Design Snapshot
 
-![Nike UI Preview](assets/nike-ui-preview.png)
+![Nike UI Preview](asset/Nike_UI_UX_DESIGN
+/Screenshot(107).png)
 
 ## 🛠️ Tools Used
 
