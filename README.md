@@ -12,7 +12,7 @@ A modern and responsive Nike UI/UX concept designed in Figma. This design focuse
 
 ## 🔗 View Design
 
-- [Figma File](https://www.figma.com/file/YOUR_FILE_ID/Nike-UI-UX-Design)
+- [Figma File]([https://www.figma.com/file/YOUR_FILE_ID/Nike-UI-UX-Desig](https://www.figma.com/design/PjGBWq7qzTUjqMMjw0ruSv/Untitled?node-id=27-114&t=s0MNITw6WhrrQZfg-1)n)
 
 ## 👤 Creator
 
