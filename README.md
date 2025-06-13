@@ -12,9 +12,9 @@ A modern and responsive Nike UI/UX concept designed in Figma. This design focuse
 
 ## 🔗 View Design
 
-- [Figma File]([https://www.figma.com/file/YOUR_FILE_ID/Nike-UI-UX-Desig](https://www.figma.com/design/PjGBWq7qzTUjqMMjw0ruSv/Untitled?node-id=27-114&t=s0MNITw6WhrrQZfg-1)n)
+- [Figma File]([[https://www.figma.com/file/YOUR_FILE_ID/Nike-UI-UX-Desig](https://www.figma.com/design/PjGBWq7qzTUjqMMjw0ruSv/Untitled?node-id=27-114&t=s0MNITw6WhrrQZfg-1)n](https://www.figma.com/proto/PjGBWq7qzTUjqMMjw0ruSv/NIIKE-SHOE?node-id=27-114&t=DjcqokiRLflwiTjq-1))
 
 ## 👤 Creator
 
-Designed by [Aayush Sharma](https://github.com/yourusername)  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+Designed by [Aayush Sharma](https://github.com/aayush202)  
+[LinkedIn](https://linkedin.com/in/sharmaaayush07/) | [Email](aayush.sharma0330@gmail.com)
